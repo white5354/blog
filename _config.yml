@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Spike的日志
+title: Spike的博客
 subtitle: '爱生活，爱自己'
 description: ''
 keywords: 'Nuxt;前端'
@@ -23,7 +23,7 @@ pretty_urls:
 # Directory
 source_dir: source
 public_dir: public
-tag_dir: tags
+tag_dir: tag
 archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
